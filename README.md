@@ -18,8 +18,9 @@ To set up this project locally, follow these instructions:
     cd eComDataInsights
 
 3.Install the necessary dependencies:
-   Copy code on Terminal /Command Prompt
-    pip install -r requirements.txt
+ bash
+Copy code
+cd eComDataInsights
    
 4.Ensure that Jupyter Notebook is installed. You can install it via Anaconda or using pip:
   Copy code on Terminal /Command Prompt
