@@ -18,23 +18,22 @@ To set up this project locally, follow these instructions:
     cd eComDataInsights
 
 3.Install the required Python packages:
-
-```bash
-pip install -r requirements.txt.gitNavigat
-
-
    
+    pip install -r requirements.txt.
+
 4.Ensure that Jupyter Notebook is installed. You can install it via Anaconda or using pip:
-  Copy code on Terminal /Command Prompt
+
     pip install jupyter
     
 ## Usage
 
  To use the eComDataInsights project:
   1.Open the Jupyter Notebook:
+  
     jupyter notebook eComDataInsights.ipynb
     
   2.Follow the notebook to see the SQL queries and Python visualizations. 
+  
   
 ## Queries Covered :-
 
