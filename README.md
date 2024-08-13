@@ -14,7 +14,7 @@ To set up this project locally, follow these instructions:
    git clone https://github.com/yourusername/eComDataInsights.gitNavigate to the
 
 2.Navigate into the directory:   
-   Copy code on Terminal /Command Prompt
+   
     cd eComDataInsights
 
 3.Install the necessary dependencies:
